@@ -9,6 +9,6 @@ int main (int argc, char* argv[])
         who = argv[1];
     }
     
-    printf("hello %s", who);
+    printf("hello %s\n", who);
     return 0;    
 }
